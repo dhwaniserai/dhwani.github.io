@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dhwani.github.io/sitemap.xml
+Sitemap: https://dhwaniserai.github.io/sitemap.xml
